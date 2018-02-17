@@ -40,7 +40,6 @@ void setup()
   //Setup pin modes
   pinMode(buzzerPin, OUTPUT);
   pinMode(button, INPUT_PULLUP);
-  Serial.begin(9600);
 }
  
 void loop()
