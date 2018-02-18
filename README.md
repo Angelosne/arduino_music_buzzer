@@ -31,6 +31,8 @@ The letter p can be used for pause as any other note.
 BPM:
 The BPM can be changed where it is declared
 
+Every note(function) is on a new line and when the bar changes I put an extra empty line
+
 
 example:
 w(db4)
