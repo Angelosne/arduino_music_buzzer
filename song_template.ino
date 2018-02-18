@@ -46,10 +46,10 @@ void loop()
 {
  
  if (digitalRead(button) == LOW) {
-     ed(d4);
-     s(d4);
+     ed(d4); //Happy birthday
+     s(d4); 
      
-     q(e4);
+     q(e4); //New bar
      q(d4);
      q(g4);
      
